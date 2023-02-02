@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Finally  done  </h1>
+   <h1> Finally  done for git commit work  </h1>
 
   
 </form>
