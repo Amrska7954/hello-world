@@ -31,7 +31,8 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Finally  done for git commit work  </h1>
-
+   <h1> Welcome to Devops CICD pipline project  </h1>
+   <br>
   
+   <h1> Git clone, webapps, vi, status,add,commit,push
 </form>
