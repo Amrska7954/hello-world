@@ -34,5 +34,5 @@
    <h1> Welcome to Devops CICD pipline project  </h1>
    <br>
   
-   <h1> Git clone, webapps, vi, status,add,commit,push, docker server ,image ,build, container, copy webapp deploy through containe,also by creating new everytime`
+   <h1> Git clone, webapps, vi, status,add,commit,push, docker server ,image ,build, container, copy webapp deploy through containe,also by creating new everytime, Ansible
 </form>
